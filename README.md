@@ -20,11 +20,12 @@ Hi, I'm Yanira, a junior full stack web developer with hospitality industry back
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-333333?style=flat-square&logo=prettier&logoColor=F7B93E" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-NuxtJs-333333?style=flat-square&logo=Nuxt.js&logoColor=43853d" />
 
-<br /> 
+<br />
+
 - Some knowledge of UX/UI design
 
 <br /> 
- 
+
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma&logoColor=red" />
 
 - 🚦 GitHub Stats:
