@@ -2,7 +2,7 @@
 
 Hi, I'm Yanira, a junior full stack web developer with hospitality industry background.
 
-Tech skills:
+- 👩‍💻 Tech skills:
 <br />
 
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -20,10 +20,31 @@ Tech skills:
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-333333?style=flat-square&logo=prettier&logoColor=F7B93E" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-NuxtJs-333333?style=flat-square&logo=Nuxt.js&logoColor=43853d" />
 
-<br />
- <a href="https://www.linkedin.com/in/yanira-aleman-rodriguez/">
+<br /> 
+- Some knowledge of UX/UI design
+
+<br /> 
+ 
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma&logoColor=red" />
+
+- 🚦 GitHub Stats:
+
+<br /> 
+
+<!--
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=yaniale&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+-->
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaniale&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+- 📫 How to reach me: ...
+
+<a href="mailto:yanira.ar@gmail.com?subject=Hello%20Yani,%20I%20contact%20you%20from%20Github,%20how%20are%20you?"><img width="45px" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yanira-aleman-rodriguez/">
   <img align="left" alt="Yanira's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> if you want to know more about me!
+</a>
 
 
 <!--
