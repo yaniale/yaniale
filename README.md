@@ -16,6 +16,7 @@ Hi, I'm Yanira, a junior full stack web developer 👩‍💻 with some knowledg
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=430098)
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-333333?style=flat-square&logo=netlify&logoColor=tale" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-333333?style=flat-square&logo=npm&logoColor=CB3837" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-333333?style=flat-square&logo=prettier&logoColor=F7B93E" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-NuxtJs-333333?style=flat-square&logo=Nuxt.js&logoColor=43853d" />
