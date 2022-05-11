@@ -19,6 +19,7 @@ Hi, I'm Yanira, a junior full stack web developer 👩‍💻 with some knowledg
   <img alt="npm" src="https://img.shields.io/badge/-NPM-333333?style=flat-square&logo=npm&logoColor=CB3837" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-333333?style=flat-square&logo=prettier&logoColor=F7B93E" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-NuxtJs-333333?style=flat-square&logo=Nuxt.js&logoColor=43853d" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-333333?style=flat-square&logo=express&logoColor=43853d" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma&logoColor=red" />
 <br /> 
 <br /> 
