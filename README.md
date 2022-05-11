@@ -1,6 +1,6 @@
 ### Hello World!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Yanira, a junior full stack web developer with hospitality industry background.
+Hi, I'm Yanira, a junior full stack web developer 👩‍💻 with some knowledge of 🖌️ UX/UI design and 🏨 hospitality industry background.
 
 - 👩‍💻 Tech skills:
 <br />
@@ -19,18 +19,11 @@ Hi, I'm Yanira, a junior full stack web developer with hospitality industry back
   <img alt="npm" src="https://img.shields.io/badge/-NPM-333333?style=flat-square&logo=npm&logoColor=CB3837" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-333333?style=flat-square&logo=prettier&logoColor=F7B93E" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-NuxtJs-333333?style=flat-square&logo=Nuxt.js&logoColor=43853d" />
-
-<br />
-
-- Some knowledge of UX/UI design
-
-<br /> 
-
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma&logoColor=red" />
+<br /> 
+<br /> 
 
 - 🚦 GitHub Stats:
-
-<br /> 
 
 <!--
 <a href="">
@@ -39,6 +32,8 @@ Hi, I'm Yanira, a junior full stack web developer with hospitality industry back
 -->
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaniale&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<br /> 
+<br /> 
 
 - 📫 How to reach me: ...
 
