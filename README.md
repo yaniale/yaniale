@@ -1,6 +1,6 @@
 ### Hello World!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Yanira, a junior full stack web developer 👩‍💻 with some knowledge of 🖌️ UX/UI design and 🏨 hospitality industry background.
+I'm Yanira, a junior full stack web developer 👩‍💻 with some knowledge of 🖌️ UX/UI design and 🏨 hospitality industry background.
 
 - 👩‍💻 Tech skills:
 <br />
